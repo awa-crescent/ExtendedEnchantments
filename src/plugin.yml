@@ -1,0 +1,7 @@
+name: ExtendedEnchantments
+author: Crescent
+main: lunar.ExtendedEnchantments
+version: 1.0.0
+api-version: 1.19
+depend: [CrescentLib]
+load: STARTUP

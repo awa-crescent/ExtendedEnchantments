@@ -1,0 +1,63 @@
+enchantments:
+  mainhand:
+    lightning_strike: "雷击"
+    beheading: "斩首"
+    explosive: "爆裂"
+    critical: "暴击"
+    punishment: "惩戒"
+    sanction: "制裁"
+    life_stealing: "生命汲取"
+    whittle: "削减"
+    end: "终结"
+    counterstrike: "反击"
+    flame: "烈焰"
+    blood_pact: "血之契约"
+    capture: "捕获"
+    smelting: "熔炼"
+    collect: "采集"
+    advent: "降临"#不可附魔
+    sanctuary: "圣域"
+    sacrifice: "牺牲"#诅咒
+    kindness: "仁慈"
+    cursed: "受诅"
+    revenge: "复仇"
+    resentment: "怨恨"
+    life_connection: "生命连接"
+    provocative: "挑衅"
+    divine_punishment: "天罚"
+    damaged: "损毁"
+
+  offhand:
+    shield_bash: "盾击"
+    reflection: "反射"
+    barrier: "壁垒"
+    mirror: "镜像"
+    twisting_timespace: "扭曲时空"
+
+  armor:
+    state_exchange: "状态交换"
+    debuff_transfer: "减益转移"
+    health: "生命"
+    charged: "充能"
+    elegy: "哀歌"
+    god_blessing: "神佑"
+    ruminate: "反刍"
+    exorcism: "祛魔"
+    dodge: "闪避"
+    phantom: "幻影"
+    thunder_counterstrike: "雷霆反击"
+    death_curse: "死亡诅咒"
+    conductive: "导电"#诅咒
+    debuff_absorption: "减益吸收"
+    damage_absorption: "伤害吸收"
+
+metadata:
+  player_skull:
+    name_color: "FFFF55"
+    name_font_style: "reset"
+    name: "的头"
+
+text:
+  bossbar:
+    advent: "降临"
+    sanctuary: "圣域"
